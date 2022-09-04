@@ -1,6 +1,6 @@
-import React, { Children, Component } from 'react';
-import PropTypes from 'prop-types';
 import s from './Section.module.css';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 
 // <Section title=""></Section>
 
